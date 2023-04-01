@@ -1,2 +1,2 @@
-# MATLABCalculator
-a calculator look like the iPhone Calculator
+# iPhone Calculator
+a clone of iPhone Calculator, designed with MATLAB App Designer
